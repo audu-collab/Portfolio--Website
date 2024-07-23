@@ -189,6 +189,7 @@ export const BentoGridItem = ({
                 position="left"
                 handleClick={handleCopy}
                 otherClasses="!bg-[#161A31]"
+                id=""
               />
             </div>
           )}
